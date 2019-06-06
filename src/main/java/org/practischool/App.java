@@ -11,32 +11,32 @@ public class App {
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String chenYiWen() {
-        return "";
+        return "罗明扬";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String eric() {
-        return "";
+        return "罗明扬";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String liChengJie() {
-        return "";
+        return "罗明扬";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String liQingSong() {
-        return "";
+        return "罗明扬";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String luoMingYang() {
-        return "";
+        return "罗明扬";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String wangYiXuan() {
-        return "";
+        return "罗明扬";
     }
 
     public static void main(String[] args) {
