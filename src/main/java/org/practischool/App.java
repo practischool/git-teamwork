@@ -16,27 +16,27 @@ public class App {
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String eric() {
-        return "wdmy";
+        return "";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String liChengJie() {
-        return "wdty";
+        return "";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String liQingSong() {
-        return "wscxk";
+        return "";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String luoMingYang() {
-        return "wxhctrl";
+        return "";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String wangYiXuan() {
-        return "sglxs";
+        return "";
     }
 
     public static void main(String[] args) {
