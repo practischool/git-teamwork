@@ -11,7 +11,7 @@ public class App {
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
     public static String chenYiWen() {
-        return "";
+        return "yoho";
     }
 
     // TODO: 参考keDouXueTang函数，修改这个函数，返回你的名字
